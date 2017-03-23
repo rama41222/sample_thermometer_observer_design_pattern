@@ -1,9 +1,10 @@
 Thermometer using the observer design pattern
 
-Installation 
-	Clone/Download the project
-	Open it using netbeans IDE
-	Run the Main class
+* Installation
+_______________
+1. Clone/Download the project
+2. Open it using netbeans IDE
+3. Run the Main class
 
 More info
 
