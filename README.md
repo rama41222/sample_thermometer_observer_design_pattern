@@ -8,6 +8,4 @@ _______________
 
 More info
 
-https://rama41222.blogspot.com
-
-
+https://rama41222.blogspot.com/2017/03/lets-create-thermometer-using-observer.html
